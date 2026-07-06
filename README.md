@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, my name is Sbah Amine
+
+## 💁‍♂️ About me
+I'm an AI & Big Data Engineer. I'm a huge fan of Large Language Models, engineering autonomous AI agents, and building complex systems from scratch rather than just using them 🛠️. When I'm not crushing code or optimization loops, I can be found lifting weights 🏋️‍♂️.
 
 <!--
 **sbahamine2005-hue/sbahamine2005-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
